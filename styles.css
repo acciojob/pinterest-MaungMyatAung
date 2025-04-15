@@ -11,7 +11,7 @@ body {
 }
 
 .hero img {
-    width: 60%; /* Adjust as needed */
+    width: 90%; /* Adjust as needed */
     height: 40%;
     object-fit: cover;
 }
